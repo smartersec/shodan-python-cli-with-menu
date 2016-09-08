@@ -12,3 +12,5 @@ sys
 getpass
 subprocess
 termcolor
+
+# This script is coded in Python 2.7
